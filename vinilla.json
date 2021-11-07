@@ -1,5 +1,5 @@
 {
-    "name": "Psr\\EventDispatcher",
+    "name": "PsrEventDispatcher",
     "vendor": "CodingLiki",
     "description": "fork of EventDispatcher interfaces",
     "repo_url": "https://github.com/coding-liki/event-dispatcher.git",
