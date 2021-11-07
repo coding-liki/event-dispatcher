@@ -1,0 +1,7 @@
+{
+    "name": "Psr\\EventDispatcher",
+    "vendor": "CodingLiki",
+    "description": "fork of EventDispatcher interfaces",
+    "repo_url": "https://github.com/coding-liki/event-dispatcher.git",
+    "version": "0.1"
+}
