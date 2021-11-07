@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace CodingLiki\PsrEventDispatcher;
+namespace Psr\EventDispatcher;
 
 /**
  * Defines a dispatcher for events.
